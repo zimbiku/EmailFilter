@@ -1,0 +1,16 @@
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\bin\Debug\net5.0\EmailFilter.exe
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\bin\Debug\net5.0\EmailFilter.deps.json
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\bin\Debug\net5.0\EmailFilter.runtimeconfig.json
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\bin\Debug\net5.0\EmailFilter.runtimeconfig.dev.json
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\bin\Debug\net5.0\EmailFilter.dll
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\bin\Debug\net5.0\ref\EmailFilter.dll
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\bin\Debug\net5.0\EmailFilter.pdb
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.csprojAssemblyReference.cache
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.AssemblyInfoInputs.cache
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.AssemblyInfo.cs
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.csproj.CoreCompileInputs.cache
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.dll
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\ref\EmailFilter.dll
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.pdb
+C:\Users\joshb\OneDrive\Documents\VsCode\EmailFilter\obj\Debug\net5.0\EmailFilter.genruntimeconfig.cache
